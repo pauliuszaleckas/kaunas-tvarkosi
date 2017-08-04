@@ -10,6 +10,13 @@ if [ ! -f "$1" ]; then
     exit 2
 fi
 
-echo "var kt_data = [" > www/kt_data.js
-cat $1 >> www/kt_data.js
-echo "];" >> www/kt_data.js
+JS_DATA_FILE=www/kt_data.js
+
+echo -n "var kt_data = [" > $JS_DATA_FILE
+# check for yajl util json_reformat to minimize data file
+if command -v json_reformat >/dev/null 2>&1; then
+	json_reformat -m <$1 >> $JS_DATA_FILE
+else
+	cat $1 >> $JS_DATA_FILE
+fi
+echo "];" >> $JS_DATA_FILE

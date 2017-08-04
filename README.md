@@ -7,6 +7,8 @@ You will need to generate/update GeoJSON/JavaScript data in **www** dir by runni
 
     ./geo_to_js.sh kaunas_data.geojson
 
+> Optionaly if you have **yajl** installed on your system, then *geo_to_js.sh* will use *json_reformat* util to compress data **~2x**.
+
 Now you just need to copy contents of **www** directory to your webservers serving directory.
 
 ## Data editing
