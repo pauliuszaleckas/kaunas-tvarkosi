@@ -56,11 +56,14 @@ legend.onAdd = function (map) {
 legend.addTo(mymap);
 
 /* Resize popup after image is loaded */
+var popUpdated;
 document.querySelector(".leaflet-popup-pane").addEventListener("load", function (event) {
 	var tagName = event.target.tagName,
 	    popup = mymap._popup; // Currently open popup, if any.
 
-	if (tagName === "IMG" && popup) {
+	if (tagName === "IMG" && popup && popup != popUpdated) {
 		popup.update();
+		popUpdated = popup;
 	}
 }, true); // Capture the load event, because it does not bubble.
+
