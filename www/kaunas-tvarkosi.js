@@ -33,7 +33,7 @@ function getColor(type) {
 function featureStyle(feature) {
 	return {
 	    color: getColor(feature.properties.type),
-	    weight: 5,
+	    weight: 8,
 	};
 }
 
