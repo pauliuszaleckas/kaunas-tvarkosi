@@ -1579,6 +1579,125 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaimelės g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/kaimelės-gatvė-1.jpg\" data-rel=\"lightbox\" title=\"Kaimelės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/kaimelės-gatvė-1-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kaimelės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.81460428237915,
+            54.93930969085888
+          ],
+          [
+            23.829259872436523,
+            54.9396548237242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdvės g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/erdvės-gatvė-2.jpg\" data-rel=\"lightbox\" title=\"Erdvės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/erdvės-gatvė-2-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Erdvės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.87679934501648,
+            54.89078289909849
+          ],
+          [
+            23.870823383331295,
+            54.88911064558943
+          ],
+          [
+            23.870136737823486,
+            54.88908596236095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Debesų g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/debesų-gatvė-su-logo.jpg\" data-rel=\"lightbox\" title=\"Debesų gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/debesų-gatvė-su-logo-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Debesų gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.885639905929565,
+            54.922604184676096
+          ],
+          [
+            23.886777162551876,
+            54.92148818227555
+          ],
+          [
+            23.88827919960022,
+            54.920779103895285
+          ],
+          [
+            23.888429403305054,
+            54.920785269848096
+          ],
+          [
+            23.889258205890656,
+            54.920990287241224
+          ],
+          [
+            23.889593482017517,
+            54.92085001229561
+          ],
+          [
+            23.889716863632202,
+            54.92075598156381
+          ],
+          [
+            23.88986438512802,
+            54.920711278351945
+          ],
+          [
+            23.890070915222168,
+            54.920754440074546
+          ],
+          [
+            23.892624378204346,
+            54.92155292359206
+          ],
+          [
+            23.892865777015686,
+            54.92164232809599
+          ],
+          [
+            23.89303207397461,
+            54.921731732401284
+          ],
+          [
+            23.893203735351562,
+            54.921987612590875
+          ],
+          [
+            23.893359303474426,
+            54.922480871014926
+          ],
+          [
+            23.893412947654724,
+            54.92291246717553
+          ]
+        ]
+      }
     }
   ]
 }
