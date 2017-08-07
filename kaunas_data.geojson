@@ -995,6 +995,324 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Žvaigždžių g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Žvaigždžių-gatvė-1.jpg\" data-rel=\"lightbox\" title=\"Žvaigždžių gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Žvaigždžių-gatvė-1-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Žvaigždžių gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.871949911117554,
+            54.89367678265935
+          ],
+          [
+            23.876466751098633,
+            54.892078693562155
+          ],
+          [
+            23.87675642967224,
+            54.89204475661967
+          ],
+          [
+            23.87749671936035,
+            54.8919953937432
+          ],
+          [
+            23.87828528881073,
+            54.89191826412761
+          ],
+          [
+            23.878843188285828,
+            54.891828793588516
+          ],
+          [
+            23.879540562629696,
+            54.89170847082604
+          ],
+          [
+            23.88081192970276,
+            54.89142463109057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titnago g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/titnago-gatvė.jpg\" data-rel=\"lightbox\" title=\"Titnago gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/titnago-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Titnago gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.92501473426819,
+            54.85092304409692
+          ],
+          [
+            23.92523467540741,
+            54.85100951715292
+          ],
+          [
+            23.92576575279236,
+            54.85113304976853
+          ],
+          [
+            23.926060795783997,
+            54.851173197787176
+          ],
+          [
+            23.92718195915222,
+            54.851231875588645
+          ],
+          [
+            23.927471637725827,
+            54.85128128840794
+          ],
+          [
+            23.928024172782898,
+            54.85139864361115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirkiliškių g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/tirkiliškių-gatvė-baigta-su-logo.jpg\" data-rel=\"lightbox\" title=\"Tirkiliškių gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/tirkiliškių-gatvė-baigta-su-logo-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Tirkiliškių gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.86853814125061,
+            54.86204257586544
+          ],
+          [
+            23.87330174446106,
+            54.85757166361603
+          ],
+          [
+            23.88000726699829,
+            54.856744119973015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K. Škirpos g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/škirpos-g-1.jpg\" data-rel=\"lightbox\" title=\"K. Škirpos gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/škirpos-g-1-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">K. Škirpos gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.94291043281555,
+            54.9304153347843
+          ],
+          [
+            23.945753574371338,
+            54.930421499260376
+          ],
+          [
+            23.946070075035095,
+            54.93035677221453
+          ],
+          [
+            23.946595788002014,
+            54.93007628714558
+          ],
+          [
+            23.947003483772278,
+            54.929795800120765
+          ],
+          [
+            23.947250247001648,
+            54.92955229880986
+          ],
+          [
+            23.948371410369873,
+            54.92889884496843
+          ],
+          [
+            23.949385285377502,
+            54.92889884496843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Šiaurės pr.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/šiaurės-prospektas.jpg\" data-rel=\"lightbox\" title=\"Šiaurės prospektas\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/šiaurės-prospektas-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Šiaurės prospektas</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.97195339202881,
+            54.92847347780153
+          ],
+          [
+            23.969979286193848,
+            54.9298050469769
+          ],
+          [
+            23.96882057189941,
+            54.930322867529895
+          ],
+          [
+            23.967361450195312,
+            54.93061876199576
+          ],
+          [
+            23.964529037475586,
+            54.930791366095626
+          ],
+          [
+            23.938779830932617,
+            54.931555746777356
+          ],
+          [
+            23.93757820129394,
+            54.93145711782823
+          ],
+          [
+            23.93646240234375,
+            54.93125985920442
+          ],
+          [
+            23.934788703918453,
+            54.930889996677266
+          ],
+          [
+            23.92470359802246,
+            54.92775835764432
+          ],
+          [
+            23.923898935317993,
+            54.927517926460006
+          ],
+          [
+            23.92321228981018,
+            54.927431617479186
+          ],
+          [
+            23.92250418663025,
+            54.927419287609666
+          ],
+          [
+            23.921710252761837,
+            54.92748093691946
+          ],
+          [
+            23.92093777656555,
+            54.92765355448424
+          ],
+          [
+            23.92046570777893,
+            54.92783233618119
+          ],
+          [
+            23.920068740844723,
+            54.92811591931208
+          ],
+          [
+            23.919854164123535,
+            54.92849197211972
+          ],
+          [
+            23.919564485549927,
+            54.929465994193954
+          ],
+          [
+            23.91927480697632,
+            54.92992833818941
+          ],
+          [
+            23.918995857238766,
+            54.93019341301662
+          ],
+          [
+            23.91848087310791,
+            54.9304461571552
+          ],
+          [
+            23.917858600616455,
+            54.930637255327596
+          ],
+          [
+            23.917129039764404,
+            54.93080369493154
+          ],
+          [
+            23.916807174682617,
+            54.93085917464648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salako g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/salako-gatvė-su-logo.jpg\" data-rel=\"lightbox\" title=\"Salako gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/salako-gatvė-su-logo-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Salako gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.913491964340206,
+            54.91432283289835
+          ],
+          [
+            23.91348123550415,
+            54.91480385154752
+          ],
+          [
+            23.91347587108612,
+            54.915425158793944
+          ],
+          [
+            23.913427591323853,
+            54.915846038898366
+          ],
+          [
+            23.913365900516506,
+            54.91594933114511
+          ],
+          [
+            23.91326665878296,
+            54.91604337310934
+          ],
+          [
+            23.91298770904541,
+            54.91611120652085
+          ],
+          [
+            23.912569284439087,
+            54.916166706499816
+          ],
+          [
+            23.912161588668823,
+            54.91619137313254
+          ]
+        ]
+      }
     }
   ]
 }
