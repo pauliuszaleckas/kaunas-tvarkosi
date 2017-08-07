@@ -2257,6 +2257,105 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bažnyčios g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/Baznycios-g.jpg\" data-rel=\"lightbox\" title=\"Bažnyčios gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/Baznycios-g-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Bažnyčios gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.925561904907227,
+            54.890246057751696
+          ],
+          [
+            23.925915956497192,
+            54.890301593395215
+          ],
+          [
+            23.93173098564148,
+            54.8902090339468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F. Vaitkaus g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/F.-Vaitkaus.jpg\" data-rel=\"lightbox\" title=\"F. Vaitkaus gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/F.-Vaitkaus-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">F. Vaitkaus gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.892570734024048,
+            54.88841950947446
+          ],
+          [
+            23.892157673835754,
+            54.88758642786172
+          ],
+          [
+            23.89205574989319,
+            54.88752780295125
+          ],
+          [
+            23.891342282295227,
+            54.886015867896035
+          ],
+          [
+            23.89278531074524,
+            54.885784444258114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juodelynės g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/juodelynes-PP-2.jpg\" data-rel=\"lightbox\" title=\"Juodelynės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/juodelynes-PP-2-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Juodelynės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.85284185409546,
+            54.86666734883115
+          ],
+          [
+            23.85382890701294,
+            54.86639568123941
+          ],
+          [
+            23.85668277740478,
+            54.86590790983313
+          ],
+          [
+            23.85956883430481,
+            54.865982002072414
+          ],
+          [
+            23.868484497070312,
+            54.86585234056431
+          ],
+          [
+            23.8718318939209,
+            54.86553127217824
+          ],
+          [
+            23.873044252395626,
+            54.865444830252855
+          ]
+        ]
+      }
     }
   ]
 }
