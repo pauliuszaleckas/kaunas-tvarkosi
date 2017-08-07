@@ -1579,6 +1579,387 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaimelės g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/kaimelės-gatvė-1.jpg\" data-rel=\"lightbox\" title=\"Kaimelės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/kaimelės-gatvė-1-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kaimelės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.81460428237915,
+            54.93930969085888
+          ],
+          [
+            23.829259872436523,
+            54.9396548237242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdvės g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/erdvės-gatvė-2.jpg\" data-rel=\"lightbox\" title=\"Erdvės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/erdvės-gatvė-2-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Erdvės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.87679934501648,
+            54.89078289909849
+          ],
+          [
+            23.870823383331295,
+            54.88911064558943
+          ],
+          [
+            23.870136737823486,
+            54.88908596236095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Debesų g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/debesų-gatvė-su-logo.jpg\" data-rel=\"lightbox\" title=\"Debesų gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/debesų-gatvė-su-logo-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Debesų gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.885639905929565,
+            54.922604184676096
+          ],
+          [
+            23.886777162551876,
+            54.92148818227555
+          ],
+          [
+            23.88827919960022,
+            54.920779103895285
+          ],
+          [
+            23.888429403305054,
+            54.920785269848096
+          ],
+          [
+            23.889258205890656,
+            54.920990287241224
+          ],
+          [
+            23.889593482017517,
+            54.92085001229561
+          ],
+          [
+            23.889716863632202,
+            54.92075598156381
+          ],
+          [
+            23.88986438512802,
+            54.920711278351945
+          ],
+          [
+            23.890070915222168,
+            54.920754440074546
+          ],
+          [
+            23.892624378204346,
+            54.92155292359206
+          ],
+          [
+            23.892865777015686,
+            54.92164232809599
+          ],
+          [
+            23.89303207397461,
+            54.921731732401284
+          ],
+          [
+            23.893203735351562,
+            54.921987612590875
+          ],
+          [
+            23.893359303474426,
+            54.922480871014926
+          ],
+          [
+            23.893412947654724,
+            54.92291246717553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apuolės g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Apuoles.jpg\" data-rel=\"lightbox\" title=\"Apuolės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Apuoles-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Apuolės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.878387212753292,
+            54.91963838636761
+          ],
+          [
+            23.878601789474487,
+            54.919459568255625
+          ],
+          [
+            23.878912925720215,
+            54.919286915531416
+          ],
+          [
+            23.8806939125061,
+            54.91678953434776
+          ],
+          [
+            23.88099431991577,
+            54.916493538156615
+          ],
+          [
+            23.8812518119812,
+            54.91641337214686
+          ],
+          [
+            23.882217407226562,
+            54.91632087270639
+          ],
+          [
+            23.882721662521362,
+            54.91638253902365
+          ],
+          [
+            23.885961771011353,
+            54.91748018366062
+          ],
+          [
+            23.887592554092404,
+            54.91796116457314
+          ],
+          [
+            23.887968063354492,
+            54.91813382298564
+          ],
+          [
+            23.888096809387207,
+            54.918324979649654
+          ],
+          [
+            23.888096809387207,
+            54.91848530389348
+          ],
+          [
+            23.887721300125122,
+            54.91890461043438
+          ],
+          [
+            23.88731360435486,
+            54.91926225079605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ž. E. Žilibero g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Ž.El_.-Žilibero-g.jpg\" data-rel=\"lightbox\" title=\"Ž. E. Žilibero gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Ž.El_.-Žilibero-g-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Ž. E. Žilibero gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9139586687088,
+            54.87260961942433
+          ],
+          [
+            23.912295699119568,
+            54.87079461877277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sodų g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Sodu.jpg\" data-rel=\"lightbox\" title=\"Sodų gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Sodu-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Sodų gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.934949636459347,
+            54.87619925249913
+          ],
+          [
+            23.93498182296753,
+            54.87536591819826
+          ],
+          [
+            23.9351749420166,
+            54.8747856604355
+          ],
+          [
+            23.93523931503296,
+            54.87437824041879
+          ],
+          [
+            23.935325145721436,
+            54.873341152702
+          ],
+          [
+            23.935419023036957,
+            54.87289204840235
+          ],
+          [
+            23.935400247573853,
+            54.87283957540858
+          ],
+          [
+            23.935247361660004,
+            54.87279636230358
+          ],
+          [
+            23.935121297836304,
+            54.87177621090489
+          ],
+          [
+            23.93523931503296,
+            54.87141814861967
+          ],
+          [
+            23.93549144268036,
+            54.871134165925014
+          ],
+          [
+            23.936049342155457,
+            54.87068966725617
+          ],
+          [
+            23.936805725097656,
+            54.87020812150063
+          ],
+          [
+            23.93948793411255,
+            54.86771695641857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Purienų g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Purienu.jpg\" data-rel=\"lightbox\" title=\"Purienų gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Purienu-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Purienų gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.928093910217285,
+            54.920359816887085
+          ],
+          [
+            23.93609762191772,
+            54.91916975790378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakraščio g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Pakr.jpg\" data-rel=\"lightbox\" title=\"Pakraščio gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Pakr-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Pakraščio gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.959486484527588,
+            54.922604184676096
+          ],
+          [
+            23.957769870758057,
+            54.923744818125186
+          ],
+          [
+            23.959304094314575,
+            54.92742545254491
+          ],
+          [
+            23.959808349609375,
+            54.92846731302695
+          ],
+          [
+            23.96020531654358,
+            54.92944750032358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lygioji g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Lygioji.jpg\" data-rel=\"lightbox\" title=\"Lygioji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Lygioji-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Lygioji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.89073073863983,
+            54.87326707398689
+          ],
+          [
+            23.892361521720883,
+            54.87327324721834
+          ],
+          [
+            23.892667293548584,
+            54.87325781413791
+          ],
+          [
+            23.893906474113464,
+            54.87310965626522
+          ],
+          [
+            23.894459009170532,
+            54.87306027018663
+          ],
+          [
+            23.89630436897278,
+            54.87277012575293
+          ],
+          [
+            23.89774203300476,
+            54.87271147928389
+          ],
+          [
+            23.898916840553284,
+            54.87305718355469
+          ]
+        ]
+      }
     }
   ]
 }
