@@ -1,6 +1,6 @@
 function onEachFeature(feature, layer) {
 	if (feature.properties.description) {
-		layer.bindPopup(feature.properties.description);
+		layer.bindPopup(feature.properties.description, {maxWidth: 350});
 	}
 	if (feature.properties.name) {
 		if (L.Browser.mobile == true) {
