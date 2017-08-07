@@ -51,8 +51,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kapsų g.",
-        "type": "planned",
-        "description": "Savo eilės laukia Kapsų gatvė."
+        "type": "finishing",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/kapsų-gatvė.jpg\" data-rel=\"lightbox\" title=\"Kapsų gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/kapsų-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kapsų gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -1957,6 +1957,303 @@
           [
             23.898916840553284,
             54.87305718355469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalniečių g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Kalnieciu.jpg\" data-rel=\"lightbox\" title=\"Kalniečių gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Kalnieciu-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kalniečių gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9191997051239,
+            54.906835468213984
+          ],
+          [
+            23.92718195915222,
+            54.9099564006902
+          ],
+          [
+            23.930293321609497,
+            54.91138109376948
+          ],
+          [
+            23.932331800460815,
+            54.914279664276926
+          ],
+          [
+            23.932535648345947,
+            54.9153465323524
+          ],
+          [
+            23.93242835998535,
+            54.91672786865414
+          ],
+          [
+            23.932310342788696,
+            54.91691286545152
+          ],
+          [
+            23.93194556236267,
+            54.91710402791539
+          ],
+          [
+            23.931151628494263,
+            54.917474017201336
+          ],
+          [
+            23.931001424789425,
+            54.91763434483551
+          ],
+          [
+            23.93093705177307,
+            54.91780700465025
+          ],
+          [
+            23.931033611297607,
+            54.91799816286676
+          ],
+          [
+            23.93194556236267,
+            54.91980487148169
+          ],
+          [
+            23.93369436264038,
+            54.923134429112466
+          ],
+          [
+            23.934638500213623,
+            54.924928576482166
+          ],
+          [
+            23.934810161590576,
+            54.92510737028962
+          ],
+          [
+            23.935142755508423,
+            54.925316989603736
+          ],
+          [
+            23.935400247573853,
+            54.92545879028511
+          ],
+          [
+            23.936108350753784,
+            54.92568073817431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Šv. Gertrūdos g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Gert.jpg\" data-rel=\"lightbox\" title=\"Šv. Gertrūdos gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2016/12/Gert-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Šv. Gertrūdos gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.88752818107605,
+            54.89932203377829
+          ],
+          [
+            23.889464735984802,
+            54.8993405414969
+          ],
+          [
+            23.889985084533688,
+            54.8992788490685
+          ],
+          [
+            23.891932368278503,
+            54.89899814732604
+          ],
+          [
+            23.89273703098297,
+            54.898939539023004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gimnazijos g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/gatvė-gimnazijos-1.jpg\" data-rel=\"lightbox\" title=\"Gimnazijos gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/gatvė-gimnazijos-1-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Gimnazijos gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.896352648735046,
+            54.89896421621364
+          ],
+          [
+            23.896180987358093,
+            54.89781979558801
+          ],
+          [
+            23.896154165267944,
+            54.8967061906599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P. Kalpoko g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/kalpoko-gatvė.jpg\" data-rel=\"lightbox\" title=\"P. Kalpoko gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/kalpoko-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">P. Kalpoko gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.919607400894165,
+            54.906440708529075
+          ],
+          [
+            23.91701102256775,
+            54.90559566306673
+          ],
+          [
+            23.91671061515808,
+            54.90555865337098
+          ],
+          [
+            23.916442394256592,
+            54.90554631679817
+          ],
+          [
+            23.914929628372192,
+            54.90562650445386
+          ],
+          [
+            23.914715051651,
+            54.90562033617832
+          ],
+          [
+            23.91450047492981,
+            54.90552164364121
+          ],
+          [
+            23.913599252700806,
+            54.90504668242256
+          ],
+          [
+            23.91340613365173,
+            54.90497266198771
+          ],
+          [
+            23.913191556930542,
+            54.90494798847919
+          ],
+          [
+            23.91274094581604,
+            54.904917146572274
+          ],
+          [
+            23.91173243522644,
+            54.90490480980291
+          ],
+          [
+            23.91119599342346,
+            54.90491097818806
+          ],
+          [
+            23.907601833343506,
+            54.90529958454812
+          ],
+          [
+            23.90674352645874,
+            54.905466128982766
+          ],
+          [
+            23.906078338623047,
+            54.90552164364121
+          ],
+          [
+            23.905402421951294,
+            54.90557715822312
+          ],
+          [
+            23.90475869178772,
+            54.905719028473506
+          ],
+          [
+            23.90399694442749,
+            54.906002767474526
+          ],
+          [
+            23.902376890182495,
+            54.90689714906508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A. Mackevičiaus g.",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/mackevičiaus-gatvė.jpg\" data-rel=\"lightbox\" title=\"A. Mackevičiaus gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/06/mackevičiaus-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">A. Mackevičiaus gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.912290334701538,
+            54.90270880462916
+          ],
+          [
+            23.911603689193722,
+            54.90339969557487
+          ],
+          [
+            23.911303281784058,
+            54.90349839331363
+          ],
+          [
+            23.910337686538696,
+            54.90341820141931
+          ],
+          [
+            23.909361362457275,
+            54.903152950169456
+          ],
+          [
+            23.906013965606686,
+            54.901876018535795
+          ],
+          [
+            23.903610706329346,
+            54.90099386336971
+          ],
+          [
+            23.902097940444946,
+            54.900432481837825
+          ],
+          [
+            23.900660276412964,
+            54.89967367897695
+          ],
+          [
+            23.900370597839355,
+            54.89958731026526
+          ],
+          [
+            23.896358013153076,
+            54.8989580469174
           ]
         ]
       }
