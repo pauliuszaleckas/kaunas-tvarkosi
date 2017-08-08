@@ -3422,7 +3422,7 @@
       "properties": {
         "name": "Kranto 13-oji g.",
         "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -3575,6 +3575,122 @@
           [
             23.93871009349823,
             54.8607643407791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gričiupio parkas",
+        "description": "Dar vienas parkas Kaune bus prikeltas antram gyvenimui!<br><br><a href=\"http://www.kaunas.lt/2017/06/naujienos/kaunas-uzdege-zalia-sviesa-griciupio-parko-renesansui/\">Kaunas uždegė žalią šviesą Gričiupio parko renesansui</a>",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.96183609962463,
+              54.904213944684194
+            ],
+            [
+              23.961600065231323,
+              54.90455937872542
+            ],
+            [
+              23.961063623428345,
+              54.904799947110526
+            ],
+            [
+              23.959325551986694,
+              54.90533659448203
+            ],
+            [
+              23.959572315216064,
+              54.90620014994797
+            ],
+            [
+              23.95864963531494,
+              54.906742946760154
+            ],
+            [
+              23.958638906478882,
+              54.9069279894552
+            ],
+            [
+              23.95889639854431,
+              54.90716237564796
+            ],
+            [
+              23.958606719970703,
+              54.907230224028
+            ],
+            [
+              23.95790934562683,
+              54.906823132032436
+            ],
+            [
+              23.958617448806763,
+              54.90571286021214
+            ],
+            [
+              23.957619667053223,
+              54.90544762407959
+            ],
+            [
+              23.958070278167725,
+              54.90495415685775
+            ],
+            [
+              23.958349227905273,
+              54.90503434569286
+            ],
+            [
+              23.959132432937622,
+              54.90476910509018
+            ],
+            [
+              23.959336280822754,
+              54.90454704184639
+            ],
+            [
+              23.960183858871456,
+              54.90468891572679
+            ],
+            [
+              23.96090269088745,
+              54.90398570985241
+            ],
+            [
+              23.96183609962463,
+              54.904213944684194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Džiugo laiptai",
+        "description": "Šančiuose veiksmas vyksta ne tik remontuojant gatves. Iki šiol aptrupėję Džiugo gatvės laiptai vedantys į viaduką Tunelio gatvėje netrukus bus suremontuoti: atnaujintos laiptų pakopos, turėklai.",
+        "type": "reconstruction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.94072711467743,
+            54.88896563140539
+          ],
+          [
+            23.939895629882812,
+            54.88952100204755
+          ],
+          [
+            23.93942892551422,
+            54.889727721386755
           ]
         ]
       }
