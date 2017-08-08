@@ -2959,6 +2959,73 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varnių tiltas",
+        "type": "reconstruction",
+        "description": "<a href=\"http://www.kaunas.lt/2017/07/naujienos/uzbaigtas-svarbus-varniu-tilto-kapitalinio-remonto-etapas/\">Užbaigtas svarbus Varnių tilto kapitalinio remonto etapas</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.912161588668823,
+            54.91430433206626
+          ],
+          [
+            23.907183408737183,
+            54.914458505407126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kauno HES tiltas",
+        "type": "done",
+        "description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.00179028511047,
+            54.874964677019314
+          ],
+          [
+            24.001318216323853,
+            54.87482887140784
+          ],
+          [
+            23.998914957046505,
+            54.87398933565199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viadukas per geležinkelį",
+        "description": "Šalia Ražiškių kaimo remontuojamas viadukas per geležinkelį, čia šiuo metu tvirtinami šlaitai.",
+        "type": "reconstruction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.934794068336487,
+            54.837841860070775
+          ],
+          [
+            23.93398940563202,
+            54.83772755476985
+          ]
+        ]
+      }
     }
   ]
 }
