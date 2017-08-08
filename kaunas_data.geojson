@@ -2938,6 +2938,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miško g.",
+        "description": "Norime kompleksiškai sutvarkyti visą gatvės erdvę, pradedant važiuojamąja dalimi, šaligatviais, apšvietimu ir baigiant medžiais, kad į gatvę kelininkams nereikėtų sugrįžti bent pora dešimtmečių.<br><br><a href=\"http://www.kaunas.lt/2017/07/naujienos/misko-gatves-kapitalinis-remontas-vietoj-senu-ir-pavoju-kelianciu-medziu-sodins-naujus/\">Miško gatvės kapitalinis remontas: vietoj senų ir pavojų keliančių medžių sodins naujus</a>",
+        "type": "reconstruction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.91724705696106,
+            54.89383103500824
+          ],
+          [
+            23.92491817474365,
+            54.89359040108592
+          ]
+        ]
+      }
     }
   ]
 }
