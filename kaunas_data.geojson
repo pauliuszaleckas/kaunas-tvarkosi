@@ -588,7 +588,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tyrlaukio g.",
-        "type": "planned",
+        "type": "finishing",
         "description": "Atsižvelgta ir į greta Tyrlaukio gatvės gyvenančių kauniečių prašymus – čia bus įrengtas šaligatvis."
       },
       "geometry": {
@@ -3155,6 +3155,61 @@
           [
             23.89529049396515,
             54.89456526809059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dainų slėnis",
+        "description": "Ši istorinė Kauno vieta greitu metu pasikeis neatpažįstamai.<br><br><a href=\"http://kauno.diena.lt/naujienos/kaunas/miesto-pulsas/dainu-slenis-laukia-kapitalinio-remonto-819508\">Dainų slėnis laukia kapitalinio remonto</a>",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.94347369670869,
+              54.894969399075976
+            ],
+            [
+              23.942572474479686,
+              54.89503726800409
+            ],
+            [
+              23.94222378730775,
+              54.89544293671229
+            ],
+            [
+              23.941601514816295,
+              54.89567276241817
+            ],
+            [
+              23.94122064113618,
+              54.89572212078797
+            ],
+            [
+              23.94001364707948,
+              54.89568972936462
+            ],
+            [
+              23.940834403038036,
+              54.89493237961246
+            ],
+            [
+              23.941563963890086,
+              54.89471643206366
+            ],
+            [
+              23.943076729774482,
+              54.89426602345025
+            ],
+            [
+              23.94347369670869,
+              54.894969399075976
+            ]
           ]
         ]
       }
