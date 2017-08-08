@@ -923,31 +923,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kranto 8-oji g.",
-        "type": "done",
-        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/07/kranto-8-oji-gatvė.jpg\" data-rel=\"lightbox\" title=\"Kranto 8-oji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/07/kranto-8-oji-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kranto 8-oji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            23.93412351608276,
-            54.86921414348135
-          ],
-          [
-            23.932589292526245,
-            54.868899275767724
-          ],
-          [
-            23.930883407592773,
-            54.86864305806833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Vienybės a.",
         "description": "Šiuo metu statoma 500 vietų, 2-jų aukštų, požeminė parkavimosi aikštelė. Visas aikštės grindinys bus pakeistas. Darbų pabaiga numatoma 2018m. antroje pusėje.<br><br><a href=\"http://kauno.diena.lt/naujienos/kaunas/miesto-pulsas/vienybes-aikste-jau-dengiama-tvoromis-821706\">Prasideda Vienybės aikštės rekonstrukcija</a>",
         "type": "reconstruction"
@@ -2734,6 +2709,31 @@
           [
             23.93096387386322,
             54.87122059565256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 8-oji g.",
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/07/kranto-8-oji-gatvė.jpg\" data-rel=\"lightbox\" title=\"Kranto 8-oji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/07/kranto-8-oji-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kranto 8-oji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.93412351608276,
+            54.86921414348135
+          ],
+          [
+            23.932589292526245,
+            54.868899275767724
+          ],
+          [
+            23.930883407592773,
+            54.86864305806833
           ]
         ]
       }
