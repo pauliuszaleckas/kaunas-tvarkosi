@@ -3213,6 +3213,387 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 1-oji g.",
+        "type": "planned",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.932868242263794,
+            54.87486590934727
+          ],
+          [
+            23.93221378326416,
+            54.8748844283042
+          ],
+          [
+            23.931591510772705,
+            54.87495541756034
+          ],
+          [
+            23.930357694625854,
+            54.87500171483394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 2-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.935062289237976,
+            54.875017147246666
+          ],
+          [
+            23.934359550476074,
+            54.874964677019314
+          ],
+          [
+            23.933871388435364,
+            54.87471775738538
+          ],
+          [
+            23.933554887771603,
+            54.87462516213266
+          ],
+          [
+            23.932122588157654,
+            54.87439984612913
+          ],
+          [
+            23.930786848068237,
+            54.87447083623875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 3-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.933163285255432,
+            54.874020201246786
+          ],
+          [
+            23.93246591091156,
+            54.87380105501208
+          ],
+          [
+            23.93192946910858,
+            54.87357573440174
+          ],
+          [
+            23.931591510772705,
+            54.87371154423549
+          ],
+          [
+            23.93123209476471,
+            54.87380105501208
+          ],
+          [
+            23.93071174621582,
+            54.873868959606554
+          ],
+          [
+            23.93022894859314,
+            54.873893652158024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 4-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.931806087493896,
+            54.87261887942219
+          ],
+          [
+            23.930287957191467,
+            54.87260035942433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 6-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.934761881828308,
+            54.87008464730341
+          ],
+          [
+            23.931521773338318,
+            54.87056310771099
+          ],
+          [
+            23.930786848068237,
+            54.870532239468965
+          ],
+          [
+            23.930615186691284,
+            54.87050445803092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 7-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.933710455894467,
+            54.86914623104524
+          ],
+          [
+            23.9327609539032,
+            54.869488878987184
+          ],
+          [
+            23.93218696117401,
+            54.86964939774201
+          ],
+          [
+            23.931816816329956,
+            54.869692614220654
+          ],
+          [
+            23.93071174621582,
+            54.86962778948532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 9-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.93449902534485,
+            54.86850105719624
+          ],
+          [
+            23.932583928108215,
+            54.86818927091811
+          ],
+          [
+            23.932278156280518,
+            54.868133704793586
+          ],
+          [
+            23.931060433387756,
+            54.868038007399626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 13-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.936870098114014,
+            54.865951130322586
+          ],
+          [
+            23.933415412902832,
+            54.86517932889469
+          ],
+          [
+            23.932288885116577,
+            54.864969396350524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 14-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.938634991645813,
+            54.86607461718004
+          ],
+          [
+            23.937546014785767,
+            54.86557449307144
+          ],
+          [
+            23.936269283294674,
+            54.865197852302
+          ],
+          [
+            23.935351967811584,
+            54.86483973158602
+          ],
+          [
+            23.934305906295776,
+            54.86435502865463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 17-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.941032886505123,
+            54.86478416084503
+          ],
+          [
+            23.939895629882812,
+            54.864123480611724
+          ],
+          [
+            23.938077092170712,
+            54.86291940935424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 18-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.940635919570923,
+            54.8636480311288
+          ],
+          [
+            23.936360478401184,
+            54.86083535490239
+          ],
+          [
+            23.936365842819214,
+            54.86069641410934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 19-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.941048979759216,
+            54.86341647902596
+          ],
+          [
+            23.937771320343018,
+            54.860588348717144
+          ],
+          [
+            23.93669307231903,
+            54.86064083765809
+          ],
+          [
+            23.936376571655273,
+            54.860687151372794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 20-oji g.",
+        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.941510319709778,
+            54.863147876920806
+          ],
+          [
+            23.940587639808655,
+            54.862499519640075
+          ],
+          [
+            23.93871009349823,
+            54.8607643407791
+          ]
+        ]
+      }
     }
   ]
 }
