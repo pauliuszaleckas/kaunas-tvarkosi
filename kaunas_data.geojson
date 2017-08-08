@@ -3026,6 +3026,146 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 15-oji g.",
+        "type": "reconstruction",
+        "description": "Ž. Šančiuose tęsiamas Kranto gatvių tvarkymas. Pasiruošimas asfaltavimui užfiksuotas Kranto 15-osios ir Kranto 16-osios gatvėse."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.93963813781738,
+            54.86552509776115
+          ],
+          [
+            23.93641948699951,
+            54.864166703014014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranto 16-oji g.",
+        "description": "Ž. Šančiuose tęsiamas Kranto gatvių tvarkymas. Pasiruošimas asfaltavimui užfiksuotas Kranto 15-osios ir Kranto 16-osios gatvėse.",
+        "type": "reconstruction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.940517902374268,
+            54.865065101028286
+          ],
+          [
+            23.937857151031494,
+            54.86383327185368
+          ],
+          [
+            23.937309980392456,
+            54.86356158516594
+          ],
+          [
+            23.936907649040222,
+            54.86333929469617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aukštaičių g.",
+        "type": "finishing",
+        "description": "Aukštaičių gatvė jau išasfaltuota."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.935689926147457,
+            54.904213944684194
+          ],
+          [
+            23.93143057823181,
+            54.90306042025257
+          ],
+          [
+            23.92822265625,
+            54.90248673002175
+          ],
+          [
+            23.927857875823975,
+            54.90244971746808
+          ],
+          [
+            23.927536010742188,
+            54.902455886229404
+          ],
+          [
+            23.926903009414673,
+            54.902511405038624
+          ],
+          [
+            23.925669193267822,
+            54.90272731079115
+          ],
+          [
+            23.924167156219482,
+            54.903140612859495
+          ],
+          [
+            23.923888206481934,
+            54.90328249169583
+          ],
+          [
+            23.922209143638607,
+            54.904513115409635
+          ],
+          [
+            23.92069101333618,
+            54.90574986976614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birštono g.",
+        "type": "done",
+        "description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.896159529685974,
+            54.8967061906599
+          ],
+          [
+            23.896089792251587,
+            54.89612624016546
+          ],
+          [
+            23.89599323272705,
+            54.895762224418874
+          ],
+          [
+            23.895424604415894,
+            54.89486142554558
+          ],
+          [
+            23.89529049396515,
+            54.89456526809059
+          ]
+        ]
+      }
     }
   ]
 }
