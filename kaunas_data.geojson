@@ -2859,7 +2859,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bivylių g.",
-        "type": "planned"
+        "type": "planned",
+        "description": "Romainiuose – Bivylių ir A. Šapokos gatvėse remontas apims ne tik važiuojamąją dalį, bet ir šaligatvius"
       },
       "geometry": {
         "type": "LineString",
@@ -4725,6 +4726,652 @@
           [
             23.88599395751953,
             54.897360167368994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J. Petruičio g.",
+        "type": "planned",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.881916999816895,
+            54.849931679032984
+          ],
+          [
+            23.870136737823486,
+            54.85137084898861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A. Šapokos g.",
+        "description": "Romainiuose – Bivylių ir A. Šapokos gatvėse remontas apims ne tik važiuojamąją dalį, bet ir šaligatvius",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.862712383270264,
+            54.934958297418405
+          ],
+          [
+            23.860416412353516,
+            54.93670877291851
+          ],
+          [
+            23.8582706451416,
+            54.93873035403228
+          ],
+          [
+            23.85554552078247,
+            54.94158997813052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taikos pr.",
+        "type": "planned",
+        "description": "Kelininkų taikiklyje – Taikos prospekto, Partizanų, Zanavykų, J. Gruodžio, V. Kuzmos, Panerių gatvės atkarpos nuo Varnių iki Jurbarko gatvių asfaltavimas."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.936398029327393,
+            54.91202249756857
+          ],
+          [
+            23.939058780670162,
+            54.91146743718392
+          ],
+          [
+            23.93993854522705,
+            54.91133175459234
+          ],
+          [
+            23.942320346832275,
+            54.91127008053587
+          ],
+          [
+            23.9461612701416,
+            54.91127008053587
+          ],
+          [
+            23.951783180236816,
+            54.91194848995955
+          ],
+          [
+            23.955302238464355,
+            54.91238019909396
+          ],
+          [
+            23.956375122070312,
+            54.912392533572614
+          ],
+          [
+            23.9681339263916,
+            54.91172646631598
+          ],
+          [
+            23.970515727996826,
+            54.91194848995955
+          ],
+          [
+            23.975536823272705,
+            54.91336694544229
+          ],
+          [
+            23.983604907989502,
+            54.9164750383224
+          ],
+          [
+            23.98791790008545,
+            54.91805366024339
+          ],
+          [
+            23.9896559715271,
+            54.91859629722659
+          ],
+          [
+            23.991029262542725,
+            54.91879361795171
+          ],
+          [
+            23.992595672607422,
+            54.91879361795171
+          ],
+          [
+            24.04036045074463,
+            54.9178193374658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J. Gruodžio g.",
+        "description": "Kelininkų taikiklyje – Taikos prospekto, Partizanų, Zanavykų, J. Gruodžio, V. Kuzmos, Panerių gatvės atkarpos nuo Varnių iki Jurbarko gatvių asfaltavimas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.904157876968384,
+            54.89718125026799
+          ],
+          [
+            23.9037823677063,
+            54.89718125026799
+          ],
+          [
+            23.90264511108398,
+            54.89705785870074
+          ],
+          [
+            23.901175260543823,
+            54.89697148437871
+          ],
+          [
+            23.90026330947876,
+            54.89694680596696
+          ],
+          [
+            23.89875054359436,
+            54.89695297557131
+          ],
+          [
+            23.898568153381348,
+            54.89711338495279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V. Kuzmos g.",
+        "type": "planned",
+        "description": "Kelininkų taikiklyje – Taikos prospekto, Partizanų, Zanavykų, J. Gruodžio, V. Kuzmos, Panerių gatvės atkarpos nuo Varnių iki Jurbarko gatvių asfaltavimas."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.888976573944092,
+            54.89681415924474
+          ],
+          [
+            23.888182640075684,
+            54.89580232800988
+          ],
+          [
+            23.888118267059326,
+            54.89580232800988
+          ],
+          [
+            23.88774812221527,
+            54.895299487788165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panerių g.",
+        "description": "Kelininkų taikiklyje – Taikos prospekto, Partizanų, Zanavykų, J. Gruodžio, V. Kuzmos, Panerių gatvės atkarpos nuo Varnių iki Jurbarko gatvių asfaltavimas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.892393708229065,
+            54.915019691380444
+          ],
+          [
+            23.88880491256714,
+            54.91213350872698
+          ],
+          [
+            23.888649344444275,
+            54.911957740918126
+          ],
+          [
+            23.88275921344757,
+            54.90620323404146
+          ],
+          [
+            23.882378339767456,
+            54.90606136549732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalvarijos g.",
+        "type": "planned",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.878601789474487,
+            54.87401402812971
+          ],
+          [
+            23.87457847595215,
+            54.86660560635739
+          ],
+          [
+            23.874363899230953,
+            54.86634011264286
+          ],
+          [
+            23.87305498123169,
+            54.86543865582251
+          ],
+          [
+            23.870469331741333,
+            54.863172576039666
+          ],
+          [
+            23.868495225906372,
+            54.86200552614324
+          ],
+          [
+            23.863141536712646,
+            54.859473714488786
+          ],
+          [
+            23.86258363723755,
+            54.859269927614555
+          ],
+          [
+            23.862208127975464,
+            54.85922052458086
+          ],
+          [
+            23.860405683517456,
+            54.859097016731894
+          ],
+          [
+            23.859912157058716,
+            54.85902291184095
+          ],
+          [
+            23.859354257583618,
+            54.858868526214174
+          ],
+          [
+            23.850460052490234,
+            54.855298965731876
+          ],
+          [
+            23.849773406982422,
+            54.85495928521096
+          ],
+          [
+            23.84927988052368,
+            54.85466901049907
+          ],
+          [
+            23.844226598739624,
+            54.851129961457744
+          ],
+          [
+            23.84260654449463,
+            54.85061112189043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vyčio Kryžiaus g.",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.87176752090454,
+            54.85619447339331
+          ],
+          [
+            23.868741989135742,
+            54.84776973926529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K. Sprangausko g.",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.881219625473022,
+            54.84814036573903
+          ],
+          [
+            23.86933207511902,
+            54.849573422737
+          ],
+          [
+            23.867905139923096,
+            54.84973402078036
+          ],
+          [
+            23.86732578277588,
+            54.849814319562284
+          ],
+          [
+            23.865737915039062,
+            54.850166396950186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J. Čapliko g.",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.87952446937561,
+            54.853538772038625
+          ],
+          [
+            23.865362405776978,
+            54.85535454954476
+          ],
+          [
+            23.865201473236084,
+            54.855508948623125
+          ],
+          [
+            23.86528730392456,
+            54.85592891112612
+          ],
+          [
+            23.865716457366943,
+            54.85699732542782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilties g.",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.913631439208984,
+            54.874495528421484
+          ],
+          [
+            23.91377091407776,
+            54.873637466201075
+          ],
+          [
+            23.9137065410614,
+            54.87336584557679
+          ],
+          [
+            23.913620710372925,
+            54.87318682189186
+          ],
+          [
+            23.913416862487793,
+            54.87300162413972
+          ],
+          [
+            23.913352489471436,
+            54.87287198520691
+          ],
+          [
+            23.913395404815674,
+            54.872748519169015
+          ],
+          [
+            23.916034698486328,
+            54.87216205032446
+          ],
+          [
+            23.92073392868042,
+            54.871223682425125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radvilėnų pl.",
+        "description": "2017-2018 metai pasinaudojant ES parama bus išasfaltuotos Kalvarijos, Vyčio Kryžiaus, K. Sprangausko, J. Petruičio, J. Čapliko, J. Pabrėžos, Vilties gatvės, taip pat Radvilėnų plentas.",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.941526412963864,
+            54.908149249911276
+          ],
+          [
+            23.949326276779175,
+            54.90447918894428
+          ],
+          [
+            23.949497938156124,
+            54.90413375421503
+          ],
+          [
+            23.950002193450928,
+            54.90021656378007
+          ],
+          [
+            23.95007729530334,
+            54.90002532110488
+          ],
+          [
+            23.950302600860596,
+            54.89974153997759
+          ],
+          [
+            23.95032405853271,
+            54.899525618214945
+          ],
+          [
+            23.950291872024536,
+            54.899309695294505
+          ],
+          [
+            23.95015239715576,
+            54.89911844831241
+          ],
+          [
+            23.949787616729736,
+            54.898939539023004
+          ],
+          [
+            23.948543071746826,
+            54.898532363194505
+          ],
+          [
+            23.948274850845337,
+            54.89839663700344
+          ],
+          [
+            23.94810318946838,
+            54.898273249160056
+          ],
+          [
+            23.94796371459961,
+            54.89810050554419
+          ],
+          [
+            23.947877883911133,
+            54.89790925281944
+          ],
+          [
+            23.94791007041931,
+            54.89711955453162
+          ],
+          [
+            23.948017358779904,
+            54.89692829714824
+          ],
+          [
+            23.948253393173218,
+            54.8966321548916
+          ],
+          [
+            23.94869327545166,
+            54.89637919832293
+          ],
+          [
+            23.949047327041626,
+            54.89615708880632
+          ],
+          [
+            23.949122428894043,
+            54.895965826852105
+          ],
+          [
+            23.94916534423828,
+            54.895762224418874
+          ],
+          [
+            23.948811292648315,
+            54.89536118631277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Šiaulių g.",
+        "type": "planned",
+        "description": "Naujos asfalto dangos sulauks ir Šiaulių, Girios, Švenčionių gatvės (nuo Šilainių pl. iki J. Semaškos g.)."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.932106494903564,
+            54.88871262668552
+          ],
+          [
+            23.92960667610168,
+            54.88835162939512
+          ],
+          [
+            23.928651809692383,
+            54.888228210776035
+          ],
+          [
+            23.9242422580719,
+            54.88879901871973
+          ],
+          [
+            23.924022316932678,
+            54.888811360423794
+          ],
+          [
+            23.923614621162415,
+            54.88873731014277
+          ],
+          [
+            23.92297625541687,
+            54.88856452562439
+          ],
+          [
+            23.92274022102356,
+            54.88847196218469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girios g.",
+        "description": "Naujos asfalto dangos sulauks ir Šiaulių, Girios, Švenčionių gatvės (nuo Šilainių pl. iki J. Semaškos g.).",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.83854031562805,
+            54.922672007028645
+          ],
+          [
+            23.839023113250732,
+            54.9238373005011
+          ],
+          [
+            23.839441537857056,
+            54.924632640158244
+          ],
+          [
+            23.840761184692383,
+            54.92597666678849
+          ],
+          [
+            23.843411207199097,
+            54.92895432731076
+          ],
+          [
+            23.843625783920288,
+            54.92936119548283
+          ],
+          [
+            23.843904733657837,
+            54.93011943882195
+          ],
+          [
+            23.843979835510254,
+            54.93110575023144
           ]
         ]
       }
