@@ -3421,8 +3421,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 13-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "reconstruction"
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-13oji-.jpg\" data-rel=\"lightbox\" title=\"Kranto 13-oji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-13oji--340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kranto 13-oji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
       },
       "geometry": {
         "type": "LineString",
