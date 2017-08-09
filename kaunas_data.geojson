@@ -5375,6 +5375,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A1 nuovaža",
+        "description": "Siekiant sumažinti Savanorių prospekto ir Jonavos gatvių apkrovą, šiemet Ašigalio gatvėje ketinama įrengti nuovažą į magistralinį A1 kelią",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.943017721176147,
+            54.93504459024967
+          ],
+          [
+            23.94294261932373,
+            54.93365771875083
+          ]
+        ]
+      }
     }
   ]
 }
