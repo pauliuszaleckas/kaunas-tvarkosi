@@ -3815,6 +3815,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleksoto aerodromo pakilimo takas",
+        "type": "done",
+        "description": "Rekonstruotas daugiau kaip tris dešimtmečius netvarkytas S. Dariaus ir S. Girėno aerodromo pakilimo takas!<br><br><a href=\"http://www.kaunas.lt/2017/06/be-kategorijos/aleksoto-aerodrome-naujutelis-pakilimo-takas/\">Aleksoto aerodrome – naujutėlis pakilimo takas</a>"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.889427185058594,
+            54.8795571064866
+          ],
+          [
+            23.871102333068848,
+            54.8801496399131
+          ]
+        ]
+      }
     }
   ]
 }
