@@ -42,11 +42,11 @@ if (L.Browser.mobile == true) {
 mymap.on('zoomend', function() {
 	var zoomed = mymap.getZoom();
 	// change tooltip only when needed
-	if ((zoomed >= 15 && zoom < 15) ||
-	    (zoomed < 15 && zoom >= 15)) {
+	if ((zoomed >= 14 && zoom < 14) ||
+	    (zoomed < 14 && zoom >= 14)) {
 		kt_layer.eachLayer(function(layer){
 			layer.unbindTooltip();
-			if (zoomed >= 15) {
+			if (zoomed >= 14) {
 				layer.bindTooltip(layer.feature.properties.name, {permanent:true, opacity: 0.7, interactive: true});
 			} else {
 				layer.bindTooltip(layer.feature.properties.name, {sticky: true});
