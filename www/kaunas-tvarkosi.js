@@ -1,23 +1,18 @@
-function onEachFeature(feature, layer) {
-	if (feature.properties.description) {
-		layer.bindPopup(feature.properties.description, {maxWidth: 350});
-	}
-	if (feature.properties.name) {
-		if (L.Browser.mobile == true) {
-			layer.bindTooltip(feature.properties.name, {permanent:true, opacity: 0.7, interactive: true});
-		} else {
-			layer.bindTooltip(feature.properties.name);
-		}
-	}
-}
-
-var mymap = L.map('mapid').setView([54.9, 23.91], 12);
+var zoom = 12;
+var mymap = L.map('mapid').setView([54.9, 23.91], zoom);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	maxZoom: 18,
 	minZoom: 11,
 	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
+
+function onEachFeature(feature, layer) {
+	if (feature.properties.description) {
+		layer.bindPopup(feature.properties.description, {maxWidth: 350});
+	}
+	layer.bindTooltip(feature.properties.name);
+}
 
 // When adding new type don't forget to update legend
 function getColor(type) {
@@ -37,10 +32,30 @@ function featureStyle(feature) {
 	};
 }
 
-L.geoJSON(kt_data, {
+var kt_layer = L.geoJSON(kt_data, {
 	onEachFeature: onEachFeature,
 	style: featureStyle
 }).addTo(mymap);
+
+// On mobile show tooltip permanently from specific zoom
+if (L.Browser.mobile == true) {
+mymap.on('zoomend', function() {
+	var zoomed = mymap.getZoom();
+	// change tooltip only when needed
+	if ((zoomed >= 15 && zoom < 15) ||
+	    (zoomed < 15 && zoom >= 15)) {
+		kt_layer.eachLayer(function(layer){
+			layer.unbindTooltip();
+			if (zoomed >= 15) {
+				layer.bindTooltip(layer.feature.properties.name, {permanent:true, opacity: 0.7, interactive: true});
+			} else {
+				layer.bindTooltip(layer.feature.properties.name);
+			}
+		});
+	}
+	zoom = zoomed;
+});
+}
 
 legend = L.control({position: 'topright'});
 
