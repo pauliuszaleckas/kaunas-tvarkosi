@@ -11,7 +11,7 @@ function onEachFeature(feature, layer) {
 	if (feature.properties.description) {
 		layer.bindPopup(feature.properties.description, {maxWidth: 350});
 	}
-	layer.bindTooltip(feature.properties.name);
+	layer.bindTooltip(feature.properties.name, {sticky: true});
 }
 
 // When adding new type don't forget to update legend
@@ -49,7 +49,7 @@ mymap.on('zoomend', function() {
 			if (zoomed >= 15) {
 				layer.bindTooltip(layer.feature.properties.name, {permanent:true, opacity: 0.7, interactive: true});
 			} else {
-				layer.bindTooltip(layer.feature.properties.name);
+				layer.bindTooltip(layer.feature.properties.name, {sticky: true});
 			}
 		});
 	}
