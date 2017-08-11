@@ -76,8 +76,8 @@
       "type": "Feature",
       "properties": {
         "name": "Rasytės g.",
-        "description": "Šilainiuose tarp daugybės daugiabučių vingiuojanti Rasytės gatvė jau išfrezuota ir artimiausiu metu bus išasfaltuota.",
-        "type": "reconstruction"
+        "description": "Rasytės gatve gyventojai jau gali važiuoti nebijodami pramušti padangą – visa gatvė padengta naujutėlaičiu asfaltu.",
+        "type": "finishing"
       },
       "geometry": {
         "type": "LineString",
@@ -129,7 +129,7 @@
       "type": "Feature",
       "properties": {
         "name": "Saulės g.",
-        "description": "Netrukus darbai užvirs ir Gričiupio seniūnijoje – asfaltuosime Saulės ir Gričiupio gatves.",
+        "description": "Netrukus atsinaujins ir Saulės bei Gričiupio gatvių važiuojamosios dalys.",
         "type": "planned"
       },
       "geometry": {
@@ -174,7 +174,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gričiupio g.",
-        "description": "Netrukus darbai užvirs ir Gričiupio seniūnijoje – asfaltuosime Saulės ir Gričiupio gatves.",
+        "description": "Netrukus atsinaujins ir Saulės bei Gričiupio gatvių važiuojamosios dalys.",
         "type": "planned"
       },
       "geometry": {
@@ -2968,7 +2968,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 15-oji g.",
-        "type": "reconstruction",
+        "type": "finishing",
         "description": "Ž. Šančiuose tęsiamas Kranto gatvių tvarkymas. Pasiruošimas asfaltavimui užfiksuotas Kranto 15-osios ir Kranto 16-osios gatvėse."
       },
       "geometry": {
@@ -2989,7 +2989,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 16-oji g.",
-        "description": "Ž. Šančiuose tęsiamas Kranto gatvių tvarkymas. Pasiruošimas asfaltavimui užfiksuotas Kranto 15-osios ir Kranto 16-osios gatvėse.",
+        "description": "rieš keletą mėnesių prasidėjęs Kranto gatvių tvarkymas Ž. Šančiuose artėja prie pabaigos. Šiuo metu kelininkai pluša ties Kranto 16-ąją, 17-ąją ir 18-ąją gatvėmis.",
         "type": "reconstruction"
       },
       "geometry": {
@@ -3440,8 +3440,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 17-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "description": "rieš keletą mėnesių prasidėjęs Kranto gatvių tvarkymas Ž. Šančiuose artėja prie pabaigos. Šiuo metu kelininkai pluša ties Kranto 16-ąją, 17-ąją ir 18-ąją gatvėmis.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -3465,8 +3465,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 18-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "description": "rieš keletą mėnesių prasidėjęs Kranto gatvių tvarkymas Ž. Šančiuose artėja prie pabaigos. Šiuo metu kelininkai pluša ties Kranto 16-ąją, 17-ąją ir 18-ąją gatvėmis.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -4816,7 +4816,7 @@
       "type": "Feature",
       "properties": {
         "name": "J. Gruodžio g.",
-        "description": "Kelininkų taikiklyje – Taikos prospekto, Partizanų, Zanavykų, J. Gruodžio, V. Kuzmos, Panerių gatvės atkarpos nuo Varnių iki Jurbarko gatvių asfaltavimas.",
+        "description": "Centre vinguriuojanti J. Gruodžio gatvė taip pat netrukus sulauks kelininkų dėmesio. Čia bus sutvarkyta tiek pati gatvė, tiek ir šaligatviai.",
         "type": "planned"
       },
       "geometry": {
@@ -4858,7 +4858,7 @@
       "properties": {
         "name": "V. Kuzmos g.",
         "type": "planned",
-        "description": "Kelininkų taikiklyje – Taikos prospekto, Partizanų, Zanavykų, J. Gruodžio, V. Kuzmos, Panerių gatvės atkarpos nuo Varnių iki Jurbarko gatvių asfaltavimas."
+        "description": "V. Kuzmos gatvėje Senamiestyje senos susidėvėjusios ir ištrupėjusios trinkelės bus pakeistomis naujomis."
       },
       "geometry": {
         "type": "LineString",
@@ -5344,6 +5344,116 @@
           [
             23.94294261932373,
             54.93365771875083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A. Mickevičiaus g.",
+        "type": "planned",
+        "description": "Netrukus kapitalinis remontas apims ir A. Mickevičiaus gatvę."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.91796588897705,
+            54.90046332718017
+          ],
+          [
+            23.917064666748047,
+            54.89317083080837
+          ],
+          [
+            23.917043209075928,
+            54.893041256751154
+          ],
+          [
+            23.916871547698975,
+            54.8928870013776
+          ],
+          [
+            23.91651749610901,
+            54.89272657516246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amerikos Lietuvių g.",
+        "type": "planned",
+        "description": "Aleksote į funikulierių vedanti Amerikos lietuvių gatvė netrukus taip pat sulauks naujos asfalto dangos."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8872492313385,
+            54.88853058572119
+          ],
+          [
+            23.88718485832214,
+            54.88861080726446
+          ],
+          [
+            23.886970281600952,
+            54.8889008376651
+          ],
+          [
+            23.886852264404293,
+            54.88928959854381
+          ],
+          [
+            23.88700783252716,
+            54.89086620142487
+          ],
+          [
+            23.887211680412292,
+            54.8909680151454
+          ],
+          [
+            23.887758851051327,
+            54.89110376637247
+          ],
+          [
+            23.88903021812439,
+            54.891205579492535
+          ],
+          [
+            23.889679312705994,
+            54.89110685162231
+          ],
+          [
+            23.889856338500977,
+            54.89101120876728
+          ],
+          [
+            23.889824151992798,
+            54.89079832546824
+          ],
+          [
+            23.8900226354599,
+            54.89029542277191
+          ],
+          [
+            23.8902747631073,
+            54.89004551173488
+          ],
+          [
+            23.890414237976074,
+            54.889928268985685
+          ],
+          [
+            23.89074683189392,
+            54.8898603914486
+          ],
+          [
+            23.890956044197083,
+            54.88983879402643
           ]
         ]
       }
