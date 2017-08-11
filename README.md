@@ -1,5 +1,7 @@
 # kaunas-tvarkosi
-Interactive map of streets, parks and etc. (re)constructions in Kaunas city, Lithuania
+Interactive map of streets, parks and etc. (re)constructions in Kaunas city, Lithuania.
+
+See it in action here: http://kaunas-tvarkosi.zaleckas.lt
 
 ## Deployment
 All website is made from static content.
