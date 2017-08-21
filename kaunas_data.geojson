@@ -3021,8 +3021,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 16-oji g.",
-        "description": "rieš keletą mėnesių prasidėjęs Kranto gatvių tvarkymas Ž. Šančiuose artėja prie pabaigos. Šiuo metu kelininkai pluša ties Kranto 16-ąją, 17-ąją ir 18-ąją gatvėmis.",
-        "type": "reconstruction"
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-16oji-gatvė.jpg\" data-rel=\"lightbox\" title=\"Kranto 16-oji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-16oji-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kranto 16-oji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -3439,8 +3439,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 14-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-14oji-.jpg\" data-rel=\"lightbox\" title=\"Kranto 14-oji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-14oji--340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kranto 14-oji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -3472,8 +3472,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 17-oji g.",
-        "description": "rieš keletą mėnesių prasidėjęs Kranto gatvių tvarkymas Ž. Šančiuose artėja prie pabaigos. Šiuo metu kelininkai pluša ties Kranto 16-ąją, 17-ąją ir 18-ąją gatvėmis.",
-        "type": "reconstruction"
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-17oji-.jpg\" data-rel=\"lightbox\" title=\"Kranto 17-oji gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/kranto-17oji--340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Kranto 17-oji gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>",
+        "type": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -5486,6 +5486,62 @@
           [
             23.890956044197083,
             54.88983879402643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muitinės g.",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.89098823070526,
+            54.89522236449949
+          ],
+          [
+            23.88923406600952,
+            54.89555862095637
+          ],
+          [
+            23.8870507478714,
+            54.896070712552365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nemuno g.",
+        "type": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.902575373649597,
+            54.89458686297861
+          ],
+          [
+            23.902178406715393,
+            54.89464547761633
+          ],
+          [
+            23.89929234981537,
+            54.89575913952561
+          ],
+          [
+            23.897656202316284,
+            54.89634218015522
+          ],
+          [
+            23.896180987358093,
+            54.896709275480625
           ]
         ]
       }
