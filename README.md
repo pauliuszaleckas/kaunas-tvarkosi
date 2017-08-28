@@ -14,6 +14,6 @@ You will need to generate/update GeoJSON/JavaScript data in **www** dir by runni
 Now you just need to copy contents of **www** directory to your webservers serving directory.
 
 ## Data editing
-I suggest using http://geojson.io
+I suggest using http://geojson.io/#id=github:pauliuszaleckas/kaunas-tvarkosi/blob/master/kaunas_data.geojson
 
 This on-line GeoJSON editor can Open and Save file directly to/from github repository.
