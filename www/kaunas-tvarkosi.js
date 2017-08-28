@@ -70,6 +70,14 @@ legend.onAdd = function (map) {
 };
 legend.addTo(mymap);
 
+social = L.control({position: 'bottomleft'});
+social.onAdd = function (map) {
+	var div = L.DomUtil.create('div', 'social');
+	div.innerHTML = '<a href="https://github.com/pauliuszaleckas/kaunas-tvarkosi"><i class="fa fa-github" aria-hidden="true"></i></a>';
+	return div;
+};
+social.addTo(mymap);
+
 /* Resize popup after image is loaded */
 var popUpdated;
 document.querySelector(".leaflet-popup-pane").addEventListener("load", function (event) {
