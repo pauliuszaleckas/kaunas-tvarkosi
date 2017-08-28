@@ -73,7 +73,7 @@ legend.addTo(mymap);
 social = L.control({position: 'bottomleft'});
 social.onAdd = function (map) {
 	var div = L.DomUtil.create('div', 'social');
-	div.innerHTML = '<a href="https://github.com/pauliuszaleckas/kaunas-tvarkosi"><i class="fa fa-github" aria-hidden="true"></i></a>';
+	div.innerHTML = '<a href="https://github.com/pauliuszaleckas/kaunas-tvarkosi"><i class="fa fa-github fa-4x" aria-hidden="true"></i></a>';
 	return div;
 };
 social.addTo(mymap);
