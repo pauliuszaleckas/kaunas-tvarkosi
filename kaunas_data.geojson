@@ -5377,7 +5377,7 @@
       "properties": {
         "name": "A. Mickevičiaus g.",
         "type": "planned",
-        "description": "Netrukus kapitalinis remontas apims ir A. Mickevičiaus gatvę."
+        "description": "Artimiausiu metu ketiname iš esmės sutvarkyti A. Mickevičiaus ir V. Putvinskio gatves, kuriose bus nutiesta nauja asfalto danga, sutvarkyti šaligatviai, įrengti dviračių takai bei apšvietimo stulpai."
       },
       "geometry": {
         "type": "LineString",
@@ -5710,6 +5710,55 @@
           [
             23.868001699447632,
             54.880211361643994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V. Putvinskio g.",
+        "type": "planned",
+        "description": "Artimiausiu metu ketiname iš esmės sutvarkyti A. Mickevičiaus ir V. Putvinskio gatves, kuriose bus nutiesta nauja asfalto danga, sutvarkyti šaligatviai, įrengti dviračių takai bei apšvietimo stulpai."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.922429084777832,
+            54.89972920162235
+          ],
+          [
+            23.922353982925415,
+            54.89969835571768
+          ],
+          [
+            23.92221450805664,
+            54.89969835571768
+          ],
+          [
+            23.921710252761837,
+            54.8998957690992
+          ],
+          [
+            23.920927047729492,
+            54.90025974748424
+          ],
+          [
+            23.920680284500122,
+            54.9003091002323
+          ],
+          [
+            23.920143842697144,
+            54.900364622001575
+          ],
+          [
+            23.91794443130493,
+            54.900488003436976
+          ],
+          [
+            23.91001582145691,
+            54.900765610284445
           ]
         ]
       }
