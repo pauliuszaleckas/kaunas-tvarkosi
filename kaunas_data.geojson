@@ -2921,8 +2921,8 @@
       "type": "Feature",
       "properties": {
         "name": "Varnių tiltas",
-        "type": "reconstruction",
-        "description": "<a href=\"http://www.kaunas.lt/2017/08/naujienos/iki-varniu-tilto-atidarymo-lieka-savaite/\">Iki Varnių tilto atidarymo lieka savaitė</a>"
+        "type": "finishing",
+        "description": "<a href=\"http://kauno.diena.lt/naujienos/kaunas/miesto-pulsas/po-remonto-atidaromas-varniu-tiltas-826780\">Po remonto atidaromas Varnių tiltas</a>"
       },
       "geometry": {
         "type": "LineString",
