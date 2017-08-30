@@ -2879,8 +2879,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bivylių g.",
-        "type": "planned",
-        "description": "Romainiuose – Bivylių ir A. Šapokos gatvėse remontas apims ne tik važiuojamąją dalį, bet ir šaligatvius"
+        "type": "reconstruction",
+        "description": "<a href=\"http://www.kaunas.lt/2017/08/naujienos/romainiuose-neeilinis-sujudimas-pradeta-vienos-pagrindiniu-gatviu-rekonstrukcija/\">Romainiuose – neeilinis sujudimas: pradėta vienos pagrindinių gatvių rekonstrukcija</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -4726,7 +4726,7 @@
       "type": "Feature",
       "properties": {
         "name": "A. Šapokos g.",
-        "description": "Romainiuose – Bivylių ir A. Šapokos gatvėse remontas apims ne tik važiuojamąją dalį, bet ir šaligatvius",
+        "description": "Romainiuose – Bivylių ir A. Šapokos gatvėse remontas apims ne tik važiuojamąją dalį, bet ir šaligatvius. Rugsėjo mėnesį turėtų paaiškėti, kas rekonstruos su Bivylių gatve susikertančią A. Šapokos gatvę. Čia darbus tikimasi pradėti dar šį rudenį, o užbaigti kitų metų pavasarį.",
         "type": "planned"
       },
       "geometry": {
@@ -7054,7 +7054,7 @@
       "type": "Feature",
       "properties": {
         "name": "Užnemunės g.",
-        "description": "Ruošiamasi perasfaltavimui",
+        "description": "Perasfaltuojama",
         "type": "reconstruction"
       },
       "geometry": {
