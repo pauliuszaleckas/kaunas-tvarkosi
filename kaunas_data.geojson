@@ -3680,7 +3680,8 @@
       "type": "Feature",
       "properties": {
         "name": "Lietuvių g.",
-        "type": "done"
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Lietuvių-gatvė.jpg\" data-rel=\"lightbox\" title=\"Lietuvių gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Lietuvių-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Lietuvių gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -3700,7 +3701,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tulpių g.",
-        "type": "done"
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Tulpių-gatvė.jpg\" data-rel=\"lightbox\" title=\"Tulpių gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Tulpių-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Tulpių gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -3769,7 +3771,8 @@
       "type": "Feature",
       "properties": {
         "name": "Aguonų g.",
-        "type": "done"
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Aguonų-gatvė.jpg\" data-rel=\"lightbox\" title=\"Aguonų gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Aguonų-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Aguonų gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -5482,7 +5485,8 @@
       "type": "Feature",
       "properties": {
         "name": "Muitinės g.",
-        "type": "done"
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/muitinės-gatvė.jpg\" data-rel=\"lightbox\" title=\"Muitinės gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/muitinės-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Muitinės gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -5506,7 +5510,8 @@
       "type": "Feature",
       "properties": {
         "name": "Nemuno g.",
-        "type": "done"
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/nemuno-gatvė.jpg\" data-rel=\"lightbox\" title=\"Nemuno gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/nemuno-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">Nemuno gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -5538,7 +5543,8 @@
       "type": "Feature",
       "properties": {
         "name": "K. Petrausko g.",
-        "type": "done"
+        "type": "done",
+        "description": "<a class=\"thumbnail\" href=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Kipro-petrausko-gatvė.jpg\" data-rel=\"lightbox\" title=\"K. Petrausko gatvė\"> \t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"http://tvarkosi.kaunas.lt/wp-content/uploads/sites/27/2017/08/Kipro-petrausko-gatvė-340x226.jpg\" alt=\"\"> \t\t\t\t\t\t\t<div class=\"img_cover_wrap\"> \t\t\t\t\t\t\t\t<h4 class=\"text-uppercase\">K. Petrausko gatvė</h4> \t\t\t\t\t\t\t\t<p></p> \t\t\t\t\t\t\t</div> \t\t\t\t\t\t</a>"
       },
       "geometry": {
         "type": "LineString",
