@@ -129,8 +129,8 @@
       "type": "Feature",
       "properties": {
         "name": "Saulės g.",
-        "description": "Netrukus atsinaujins ir Saulės bei Gričiupio gatvių važiuojamosios dalys.",
-        "type": "planned"
+        "description": "Darbai vyksta ir netoliese esančiose Saulės ir Gričiupio gatvėse",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -174,8 +174,8 @@
       "type": "Feature",
       "properties": {
         "name": "Gričiupio g.",
-        "description": "Netrukus atsinaujins ir Saulės bei Gričiupio gatvių važiuojamosios dalys.",
-        "type": "planned"
+        "description": "Darbai vyksta ir netoliese esančiose Saulės ir Gričiupio gatvėse",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -315,7 +315,7 @@
       "properties": {
         "name": "Švenčionių g.",
         "type": "reconstruction",
-        "description": "Šančiuose tęsiama net trijų didelių gatvių rekonstrukcija: darbai pilnu tempu vyksta Prancūzų, Verkių ir Švenčionių gatvėse"
+        "description": "Šančiuose tęsiama net trijų didelių gatvių rekonstrukcija: darbai pilnu tempu vyksta Prancūzų, Verkių ir Švenčionių gatvėse. Tam, jog lietaus vanduo negadintų gatvės dangos įrenginėjama lietaus nuotekų sistema."
       },
       "geometry": {
         "type": "LineString",
@@ -2880,7 +2880,7 @@
       "properties": {
         "name": "Bivylių g.",
         "type": "reconstruction",
-        "description": "<a href=\"http://www.kaunas.lt/2017/08/naujienos/romainiuose-neeilinis-sujudimas-pradeta-vienos-pagrindiniu-gatviu-rekonstrukcija/\">Romainiuose – neeilinis sujudimas: pradėta vienos pagrindinių gatvių rekonstrukcija</a>"
+        "description": "Romainiuose įsibėgėja Bivylių gatvės rekonstrukcija. Čia kelininkai toliau įrenginėja lietaus nuotekų sistemą.<br><br><a href=\"http://www.kaunas.lt/2017/08/naujienos/romainiuose-neeilinis-sujudimas-pradeta-vienos-pagrindiniu-gatviu-rekonstrukcija/\">Romainiuose – neeilinis sujudimas: pradėta vienos pagrindinių gatvių rekonstrukcija</a>"
       },
       "geometry": {
         "type": "LineString",
@@ -3183,8 +3183,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 1-oji g.",
-        "type": "planned",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės."
+        "type": "reconstruction",
+        "description": "Pasiruošta asfaltuoti Latvių, Estų, Kranto 1-ą, Kranto 2-ąją, Kranto 3-ąją bei Kranto 20-ąją gatves."
       },
       "geometry": {
         "type": "LineString",
@@ -3212,8 +3212,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 2-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "description": "Pasiruošta asfaltuoti Latvių, Estų, Kranto 1-ą, Kranto 2-ąją, Kranto 3-ąją bei Kranto 20-ąją gatves.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -3249,8 +3249,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 3-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "description": "Pasiruošta asfaltuoti Latvių, Estų, Kranto 1-ą, Kranto 2-ąją, Kranto 3-ąją bei Kranto 20-ąją gatves.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -3539,8 +3539,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 20-oji g.",
-        "description": "Žemųjų Šančių gyventojus taip pat pasiekė geros žinios: šįmet bus išasfaltuotos ne tik visos Krantų gatvės, bet ir tarpinės, jungiamosios gatvelės.",
-        "type": "planned"
+        "description": "Pasiruošta asfaltuoti Latvių, Estų, Kranto 1-ą, Kranto 2-ąją, Kranto 3-ąją bei Kranto 20-ąją gatves.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
@@ -7366,8 +7366,8 @@
       "type": "Feature",
       "properties": {
         "name": "Garšvės g.",
-        "description": "Išasfaltuotas žvyrkelis",
-        "type": "done"
+        "description": "Išasfaltuotas žvyrkelis. Gatvėje įrengta apie 500 kvadratinių metrų kelkraščio.",
+        "type": "finishing"
       },
       "geometry": {
         "type": "LineString",
@@ -7607,6 +7607,97 @@
           [
             23.91647458076477,
             54.90552781193186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaižiūnų g.",
+        "description": "Itin prastos būklės Gaižiūnų gatvėje netrukus prasidės važiuojamosios dalies atnaujinimas",
+        "type": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.93320083618164,
+            54.92217258520853
+          ],
+          [
+            23.9422345161438,
+            54.92082843149136
+          ],
+          [
+            23.94719123840332,
+            54.91705469575361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Latvių g.",
+        "type": "reconstruction",
+        "description": "Pasiruošta asfaltuoti Latvių, Estų, Kranto 1-ą, Kranto 2-ąją, Kranto 3-ąją bei Kranto 20-ąją gatves."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.933908939361572,
+            54.86764904146035
+          ],
+          [
+            23.935770392417904,
+            54.86568563229835
+          ],
+          [
+            23.936280012130737,
+            54.86518859059939
+          ],
+          [
+            23.937132954597473,
+            54.86445999666271
+          ],
+          [
+            23.938538432121277,
+            54.863243585922056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estų g.",
+        "description": "Pasiruošta asfaltuoti Latvių, Estų, Kranto 1-ą, Kranto 2-ąją, Kranto 3-ąją bei Kranto 20-ąją gatves.",
+        "type": "reconstruction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.933790922164917,
+            54.86651916673531
+          ],
+          [
+            23.93424689769745,
+            54.86587086366242
+          ],
+          [
+            23.9346170425415,
+            54.86543865582251
+          ],
+          [
+            23.93536269664764,
+            54.86483355706303
+          ],
+          [
+            23.937309980392456,
+            54.8635677598837
           ]
         ]
       }
