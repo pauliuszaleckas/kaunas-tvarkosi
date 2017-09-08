@@ -687,7 +687,7 @@
       "properties": {
         "name": "Kalniečių parkas",
         "type": "reconstruction",
-        "description": "Kalniečių ir Dainavos parkuose aiškėja būsimų poilsio oazių kontūrai: pastatytos pavėsinės, beveik baigti pėsčiųjų ir dviračių takai, baigiamos įrengti poilsio ir sporto aikštelės."
+        "description": "Gyventojai pastebi, jog parkuose vinguriuojantys takeliai iš žvyruotų tapo asfaltuotais. Be to, į parkus atkeliauja vis daugiau vaikų žaidimo aikštelėms skirtų sūpynių ir karstyklių, kitų priedų, kurie džiugins tiek mažus, tiek didelius kauniečius."
       },
       "geometry": {
         "type": "Polygon",
@@ -789,7 +789,7 @@
       "type": "Feature",
       "properties": {
         "name": "Dainavos parkas",
-        "description": "Iki Dainavos parko rekonstrukcijos pabaigos lieka mažiau nei 4 mėnesiai. Kasdien vis aiškiau matomi būsimų takų, sporto aikštelių, pavėsinių ir kitų poilsio zonų kontūrai. Tarp V. Krėvės prospekto ir Partizanų gatvės įsikūrusį parką planuojama atnaujinti iki lapkričio mėnesio pabaigos.",
+        "description": "Gyventojai pastebi, jog parkuose vinguriuojantys takeliai iš žvyruotų tapo asfaltuotais. Be to, į parkus atkeliauja vis daugiau vaikų žaidimo aikštelėms skirtų sūpynių ir karstyklių, kitų priedų, kurie džiugins tiek mažus, tiek didelius kauniečius.",
         "type": "reconstruction"
       },
       "geometry": {
