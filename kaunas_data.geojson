@@ -4832,7 +4832,7 @@
       "properties": {
         "name": "J. Gruodžio g.",
         "description": "Centre vinguriuojanti J. Gruodžio gatvė taip pat netrukus sulauks kelininkų dėmesio. Čia bus sutvarkyta tiek pati gatvė, tiek ir šaligatviai.",
-        "type": "planned"
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
