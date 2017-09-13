@@ -2980,8 +2980,8 @@
       "type": "Feature",
       "properties": {
         "name": "Kranto 15-oji g.",
-        "type": "finishing",
-        "description": "Ž. Šančiuose tęsiamas Kranto gatvių tvarkymas. Pasiruošimas asfaltavimui užfiksuotas Kranto 15-osios ir Kranto 16-osios gatvėse."
+        "type": "done",
+        "description": "Baigta asfaltuoti"
       },
       "geometry": {
         "type": "LineString",
