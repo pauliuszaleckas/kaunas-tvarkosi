@@ -2913,7 +2913,7 @@
       "type": "Feature",
       "properties": {
         "name": "Varnių tiltas",
-        "type": "finishing",
+        "type": "done",
         "description": "<a href=\"http://kauno.diena.lt/naujienos/kaunas/miesto-pulsas/po-remonto-atidaromas-varniu-tiltas-826780\">Po remonto atidaromas Varnių tiltas</a>"
       },
       "geometry": {
@@ -2958,8 +2958,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Viadukas per geležinkelį",
-        "description": "Šalia Ražiškių kaimo remontuojamas viadukas per geležinkelį, čia šiuo metu tvirtinami šlaitai.",
+        "name": "Ražiškių viadukas per geležinkelį",
+        "description": "Užbaigus Varnių tilto kapitalinį remontą, kauniečių akys nukrypo į viaduką per geležinkelį Ražiškėse, kurį planuojama atidaryti dar šį rudenį. Šiuo metu prie viaduko dirbanti komanda montuoja šalitilčio plokštes, deda hidroizoliaciją, betonuoja atramas.",
         "type": "reconstruction"
       },
       "geometry": {
