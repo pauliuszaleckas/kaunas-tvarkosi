@@ -5712,7 +5712,7 @@
       "type": "Feature",
       "properties": {
         "name": "V. Putvinskio g.",
-        "type": "planned",
+        "type": "reconstruction",
         "description": "Artimiausiu metu ketiname iš esmės sutvarkyti A. Mickevičiaus ir V. Putvinskio gatves, kuriose bus nutiesta nauja asfalto danga, sutvarkyti šaligatviai, įrengti dviračių takai bei apšvietimo stulpai."
       },
       "geometry": {
@@ -7764,6 +7764,39 @@
           [
             23.92326593399048,
             54.89867425826877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E. Ožeškienės g.",
+        "type": "reconstruction",
+        "description": "Dalis tvarkoma kartu su V. Putvinskio g."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.91001582145691,
+            54.90076869479421
+          ],
+          [
+            23.90975832939148,
+            54.90075635675369
+          ],
+          [
+            23.909592032432556,
+            54.90072859614869
+          ],
+          [
+            23.906131982803345,
+            54.89944541840821
+          ],
+          [
+            23.90601933002472,
+            54.899362133824475
           ]
         ]
       }
