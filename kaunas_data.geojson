@@ -7052,8 +7052,8 @@
       "type": "Feature",
       "properties": {
         "name": "Užnemunės g.",
-        "description": "Perasfaltuojama",
-        "type": "reconstruction"
+        "description": "Baigta asfaltuoti Marvelėje – Užnemunės gatvė",
+        "type": "done"
       },
       "geometry": {
         "type": "LineString",
