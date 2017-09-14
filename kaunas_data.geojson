@@ -7982,6 +7982,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pietų g.",
+        "description": "Gaižiūnų ir Pietų gatvės bus išasfaltuotos, kai tik leis oro sąlygos.",
+        "type": "reconstruction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.961524963378906,
+            54.90870435605288
+          ],
+          [
+            23.962104320526123,
+            54.90812457834955
+          ],
+          [
+            23.96295189857483,
+            54.90721171993569
+          ]
+        ]
+      }
     }
   ]
 }
