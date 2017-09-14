@@ -129,8 +129,8 @@
       "type": "Feature",
       "properties": {
         "name": "Saulės g.",
-        "description": "Darbai vyksta ir netoliese esančiose Saulės ir Gričiupio gatvėse",
-        "type": "reconstruction"
+        "description": "Gričiupio seniūnijoje beveik užbaigta atnaujinti Saulės gatvę.",
+        "type": "finishing"
       },
       "geometry": {
         "type": "LineString",
