@@ -7607,8 +7607,8 @@
       "type": "Feature",
       "properties": {
         "name": "Gaižiūnų g.",
-        "description": "Itin prastos būklės Gaižiūnų gatvėje netrukus prasidės važiuojamosios dalies atnaujinimas",
-        "type": "planned"
+        "description": "Gaižiūnų ir Pietų gatvės bus išasfaltuotos, kai tik leis oro sąlygos.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
