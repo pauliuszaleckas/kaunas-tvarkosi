@@ -73,7 +73,9 @@ legend.addTo(mymap);
 social = L.control({position: 'bottomleft'});
 social.onAdd = function (map) {
 	var div = L.DomUtil.create('div', 'social');
-	div.innerHTML = '<a href="https://github.com/pauliuszaleckas/kaunas-tvarkosi"><i class="fa fa-github fa-4x" aria-hidden="true"></i></a>';
+	div.innerHTML =
+		'<div class="social-item"><a href="https://github.com/pauliuszaleckas/kaunas-tvarkosi/commits/master.atom"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></div>' +
+		'<div class="social-item"><a href="https://github.com/pauliuszaleckas/kaunas-tvarkosi"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a></div>';
 	return div;
 };
 social.addTo(mymap);
