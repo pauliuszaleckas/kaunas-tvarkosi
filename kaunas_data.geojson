@@ -252,8 +252,8 @@
       "type": "Feature",
       "properties": {
         "name": "Rokelių g.",
-        "description": "Neužilgo prasidės ir Rokelių gatvės remontas, kurio vietiniai gyventojai laukė ne vienerius metus.",
-        "type": "planned"
+        "description": "Rokelių gatvės nuovažose įrengiami pagrindai.",
+        "type": "reconstruction"
       },
       "geometry": {
         "type": "LineString",
