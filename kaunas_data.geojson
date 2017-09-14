@@ -687,7 +687,7 @@
       "properties": {
         "name": "Kalniečių parkas",
         "type": "reconstruction",
-        "description": "Gyventojai pastebi, jog parkuose vinguriuojantys takeliai iš žvyruotų tapo asfaltuotais. Be to, į parkus atkeliauja vis daugiau vaikų žaidimo aikštelėms skirtų sūpynių ir karstyklių, kitų priedų, kurie džiugins tiek mažus, tiek didelius kauniečius."
+        "description": "Visi pėsčiųjų takai Dainos ir Kalniečių parkų poilsio oazėse išasfaltuoti, šiuo metu vyksta suoliukų zonų paruošimas. Kalniečių parke baigiami montuoti vaikų žaidimo aikštelių įrenginiai, o į Dainavos parko tvenkinį atkeliauja naujasis fontanas. Pasak Dainavos parką rekonstruojančios įmonės atstovų, spalio mėnesį pagrindiniai darbai parke bus užbaigti."
       },
       "geometry": {
         "type": "Polygon",
@@ -789,7 +789,7 @@
       "type": "Feature",
       "properties": {
         "name": "Dainavos parkas",
-        "description": "Gyventojai pastebi, jog parkuose vinguriuojantys takeliai iš žvyruotų tapo asfaltuotais. Be to, į parkus atkeliauja vis daugiau vaikų žaidimo aikštelėms skirtų sūpynių ir karstyklių, kitų priedų, kurie džiugins tiek mažus, tiek didelius kauniečius.",
+        "description": "Visi pėsčiųjų takai Dainos ir Kalniečių parkų poilsio oazėse išasfaltuoti, šiuo metu vyksta suoliukų zonų paruošimas. Kalniečių parke baigiami montuoti vaikų žaidimo aikštelių įrenginiai, o į Dainavos parko tvenkinį atkeliauja naujasis fontanas. Pasak Dainavos parką rekonstruojančios įmonės atstovų, spalio mėnesį pagrindiniai darbai parke bus užbaigti.",
         "type": "reconstruction"
       },
       "geometry": {
